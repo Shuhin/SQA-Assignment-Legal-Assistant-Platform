@@ -112,3 +112,5 @@ docker run -p 3001:3001 react-frontend
 ### 4. Access the Application
    Open your browser and navigate to:
    http://localhost:3001
+# SQA-Assignment-Legal-Assistant-Platform
+# SQA-Assignment-Legal-Assistant-Platform
